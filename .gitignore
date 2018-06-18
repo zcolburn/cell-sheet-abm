@@ -105,7 +105,7 @@ venv.bak/
 
 # Project files
 Results
-vid
+vid/.*
 requirements.txt
 LICENSE
 README.md
